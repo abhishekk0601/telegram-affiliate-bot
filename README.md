@@ -1,4 +1,4 @@
-\#Telegram Affiliate Marketing Automation Bot
+# Telegram Affiliate Marketing Automation Bot
 
 
 
